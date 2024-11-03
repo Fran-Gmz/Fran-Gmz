@@ -8,10 +8,6 @@
 
   Computer Science at the National University of San Juan.
 
-- I am available for collaborations and opportunities
-
-  to learn and grow in the field of technology.
-
 ### 🧰 Languages and Tools
 
 
